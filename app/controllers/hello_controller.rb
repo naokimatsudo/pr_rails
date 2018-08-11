@@ -7,6 +7,7 @@ class HelloController < ApplicationController
             @msg = 'you selected: ' 
             for val in params['s1']
                 @msg += val + ' '
+            end
         else
             @msg = 'not selected...'
         end
