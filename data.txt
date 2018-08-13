@@ -1,0 +1,1 @@
+{"1534132885":{"name":"ポン酢","mail":"ponpon@example.com","msg":"サンプルです。"},"1534132909":{"name":"ポン酢","mail":"ponpon@example.com","msg":"サンプルです。"},"1534132928":{"name":"pon","mail":"pon","msg":"pon"},"1534132989":{"name":"yakiniku","mail":"yakiyaki@exmaple.com","msg":"焼肉売ってます。\r\n"},"1534133001":{"name":"　　　　","mail":"　　　　","msg":"\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"}}
