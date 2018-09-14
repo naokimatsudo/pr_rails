@@ -1,4 +1,4 @@
 # README
 
-railsの練習用
+docker上でrailsの練習用
 
